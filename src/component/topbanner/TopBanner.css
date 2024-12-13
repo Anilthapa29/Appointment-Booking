@@ -1,0 +1,16 @@
+.page-header {
+  position: absolute;
+  background-color: bisque;
+  top: 0px;
+  left: -4px;
+  width: 96%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 40px;
+  padding-right: 100px;
+}
+.user-name {
+  font-weight: bold;
+}
